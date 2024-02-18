@@ -20,6 +20,15 @@ To list all the packages in requirements.txt
 ```shell
 python ./main.py ./path/to/project > requirements.txt
 ```
+For example to list packages used by ListPackage itself,
+```shell
+python ./main.py . > requirements.txt
+cat requirements.txt
+```
+Output
+```shell
+stdlib-list==0.10.0
+```
 
 For help,
 ```shell
