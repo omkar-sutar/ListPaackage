@@ -4,7 +4,9 @@
 ## Installation
 Make sure Python (preferred 3.9) is installed.
 
-Clone the repository 
+1. Clone the repository
+
+2. Install dependencies
 ```shell
 cd ListPackage
 pip install -r ./requirements.txt
