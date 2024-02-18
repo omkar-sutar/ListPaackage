@@ -6,20 +6,20 @@ Make sure Python (preferred 3.9) is installed.
 
 Clone the repository 
 ```shell
-~$ cd ListPackage
-~$ pip install -r ./requirements.txt
+cd ListPackage
+pip install -r ./requirements.txt
 ```
 
 ## Usage
 ```shell
-~$ python ./main.py ./path/to/project
+python ./main.py ./path/to/project
 ```
 To list all the packages in requirements.txt
 ```shell
-~$ python ./main.py ./path/to/project > requirements.txt
+python ./main.py ./path/to/project > requirements.txt
 ```
 
 For help,
 ```shell
-~$ python ./main.py -h
+python ./main.py -h
 ```
