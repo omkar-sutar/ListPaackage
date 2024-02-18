@@ -1,5 +1,5 @@
 # ListPackage
-#### Command line utility to list packages used in a project. Ignores packages from stdlib and user created modules
+#### Command line utility to list packages used in a python project. Ignores packages from stdlib and user created modules
 
 ## Installation
 Make sure Python (preferred 3.9) is installed.
